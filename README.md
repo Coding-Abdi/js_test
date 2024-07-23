@@ -1,1 +1,1 @@
-# js_test
+# Repo to learn js testing
